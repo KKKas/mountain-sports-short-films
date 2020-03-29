@@ -1,3 +1,4 @@
+[![thumbnail](https://i.imgur.com/Z4FT644.png)](https://kkkas.github.io/mountain-sports-short-films/)
 List: https://kkkas.github.io/mountain-sports-short-films/
 
 Feel free to contribute.
