@@ -1,9 +1,6 @@
-[![thumbnail](https://i.imgur.com/Z4FT644.png)](https://kkkas.github.io/mountain-sports-short-films/)
-List: https://kkkas.github.io/mountain-sports-short-films/
+[![thumbnail](https://i.imgur.com/RjOGZJn.jpg)](http://mountflix.com/)
+List: http://mountflix.com/
 
-Feel free to contribute.
+Feel free to contribute: https://forms.gle/t362M2oYMPQDmqGw7
 
-TODO:
-- add direct links to the videos
-- make the list as a table (sort/filter/search) with columns: title, year, duration, language, tags (place, sport, etc), description, link
-- add more, older videos
+Well, I've made a simple website which collects all interesting, high quality outdoor sports films. All films are in full version and available online.
